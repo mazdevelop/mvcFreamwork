@@ -1,0 +1,15 @@
+{
+    "name": "mohsen/mvc-youtube",
+    "authors": [
+        {
+            "name": "mohsen-alizadeh",
+            "email": "dev.medsa@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
